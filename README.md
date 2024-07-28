@@ -1,4 +1,2 @@
 Ecommerce Sales DashBoard
-
-
-![Power BI Project](https://github.com/user-attachments/assets/47d45bde-819a-4630-a4c3-22bc70e5dbfb)
+![Ecom Sales DashBoard](https://github.com/user-attachments/assets/c14b12c5-f0d4-45dd-be2f-0589a6c6bd36)
